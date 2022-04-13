@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+
+  --btn-color: #E1D201;
+  --btn-border: #E1D201;
+  --btn-background: #26282b;
+
+  --btn-hover-color: #ffffff;
+  --btn-hover-border: #ffffff;
+  --btn-hover-background: #E1D201;
+
+  --menu-color: #ffffff;
+  --menu-background: #1b2d59;
+
+  --color-primary: #ffffff;
+  --background-primary: #26282b;
+
+  --color-secondary: #E1D201;
+  --background-secondary: #26282b;
+}

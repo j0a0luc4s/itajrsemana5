@@ -1,0 +1,7 @@
+.content {
+  background: var(--background-primary);
+  color: var(--color-primary);
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
